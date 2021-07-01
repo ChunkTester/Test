@@ -1,1 +1,3 @@
-chunktester.github.io
+type = CNAME
+name = www.mazone.com
+value = username.github.io.
